@@ -20,11 +20,11 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
-    "concurrently": "^4.1.0",
+    "concurrently": "^4.1.2",
     "dialogflow": "^0.9.1",
     "express": "^4.17.1"
   },
   "devDependencies": {
-    "nodemon": "^1.19.1"
+    "nodemon": "^1.19.4"
   }
 }
